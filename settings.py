@@ -1,0 +1,5 @@
+token = "c8991d8af3905eaf984126a9ac844c559113e881349d7cdf880ddf8f686044e1153bb60c6af779121add4"
+confirmation_token = "532f3e20"
+access_token = '0ee10fa86d2da1ec10a9dcc7eed41427c7be57e4d08f66e504da662daf68b89af5ce07bb213d6d6e81928'
+#https://https://oauth.vk.com/blank.html#access_token=af54be326e62eaf516d8efe11b5c4735b295f59d5186ace28d4ebee792b39f57a266e1bfbc9761b52e1e7&expires_in=0&user_id=436020620
+#52df44081f4f118a898bc30634e44c22a51845917f46f59db7e3f39bf3ddd5ebfc9de0057cee024b6c55e
